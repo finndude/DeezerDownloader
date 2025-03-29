@@ -1,2 +1,5 @@
 # DeezerDownloader
 Attempt to download music from Deezer
+
+Test Playlist Link - https://www.deezer.com/en/playlist/13706149821
+Test ARL- 3e320989c11d3574793d622ed74b28611de268e677123b3f8fea573dc4a1c67f6da95d96b3c083e7c604808767200b6bb80fe7fb08ff0eb99f8c97db4bd478239ccae2fa9954cda269e9ff06283fe2cf520435f7a67aad6ccc945e6047dc52c0
